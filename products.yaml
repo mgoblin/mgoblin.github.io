@@ -10,4 +10,4 @@ components:
                 id: 
                   type: integer
             products: 
-              type: integer
+              type: string
