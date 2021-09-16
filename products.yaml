@@ -1,1 +1,11 @@
-Test
+components:
+  messages:
+    profileProducts:
+      payload:
+          type: object
+          properties:
+            profile:
+              id: 
+                type: integer
+            products: 
+              type: string
