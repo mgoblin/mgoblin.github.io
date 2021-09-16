@@ -5,7 +5,9 @@ components:
           type: object
           properties:
             profile:
-              id: 
-                type: integer
+              type: object
+              properties:
+                id: 
+                  type: integer
             products: 
               type: string
